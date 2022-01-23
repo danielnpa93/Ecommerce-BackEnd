@@ -1,0 +1,32 @@
+[
+  {
+    "id": "05a1ca87-3f54-4b2f-bc35-f9a4544e1790",
+    "name": "Equipe 01",
+    "description": "Equipe 01 Descriçao",
+    "vehicleIdentifier": "123abc"
+  },
+  {
+    "id": "9ffb1fde-fa00-4af8-a740-7e3011e7b0e1",
+    "name": "Equipe 02",
+    "description": "Equipe 02 Descriçao",
+    "vehicleIdentifier": "345qwe"
+  },
+  {
+    "id": "43f4147e-2bd2-4ea3-84ec-f9238024a2b8",
+    "name": "Equipe 03",
+    "description": "Equipe 03 Descriçao",
+    "vehicleIdentifier": "123cat"
+  },
+  {
+    "id": "4bc930e4-eea3-4edb-8985-23d25fbedf74",
+    "name": "Equipe 04",
+    "description": "Equipe 04 Descriçao",
+    "vehicleIdentifier": "123ftg"
+  },
+  {
+    "id": "47842e3b-a2d2-4339-beb4-b5db975a501d",
+    "name": "Equipe 05",
+    "description": "Equipe 05 Descriçao",
+    "vehicleIdentifier": "175hdg"
+  }
+]

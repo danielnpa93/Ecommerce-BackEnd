@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f6041995-a731-408d-a2e9-27e3ca768944",
+    "name": "Produto 1",
+    "description": "Produto 1 descrição",
+    "amount": 120
+  },
+  {
+    "id": "9bfb66bc-4b48-4f37-a38d-fc10bc195dfb",
+    "name": "Produto 2",
+    "description": "Produto 2 descrição",
+    "amount": 90
+  },
+  {
+    "id": "317ce3fa-d33d-4242-988d-0384fe90c988",
+    "name": "Produto 3",
+    "description": "PRoduto 3 descrição",
+    "amount": 10
+  },
+  {
+    "id": "6b1f3d93-b995-4b5a-be18-d35bb390cde9",
+    "name": "Produto 4",
+    "description": "Produto 4 descrição",
+    "amount": 200
+  },
+  {
+    "id": "9bc829fe-8a5c-4e56-9f22-5b9ba96af5b8",
+    "name": "Produto 5",
+    "description": "Produto 5 descrição",
+    "amount": 100
+  },
+  {
+    "id": "4d9c8060-a384-421d-90dd-17af1fd40402",
+    "name": "Produto 6",
+    "description": "Produto 6 descrição",
+    "amount": 1200
+  },
+  {
+    "id": "2688f2d8-b439-4fe0-8388-610991fe3816",
+    "name": "Produto 7",
+    "description": "Produto 7 descrição",
+    "amount": 40
+  },
+  {
+    "id": "b3f132eb-be54-4e87-ac12-991177d88b01",
+    "name": "Produto 8",
+    "description": "Produto 8 descrição",
+    "amount": 180.40
+  },
+  {
+    "id": "9e35b4e6-cc0b-4984-b102-f81047c1ef76",
+    "name": "Produto 9",
+    "description": "Produto 9 descrição",
+    "amount": 110.80
+  },
+  {
+    "id": "7e5bbafd-5b15-416b-a607-c8b4070c2b3a",
+    "name": "Produto 10",
+    "description": "Produto 10 descrição",
+    "amount": 500
+  },
+  {
+    "id": "53fc47c3-2f6b-4236-88fb-8b32cb89f318",
+    "name": "Produto 11",
+    "description": "Produto 11 descrição",
+    "amount": 300
+  },
+  {
+    "id": "3c338ba8-da85-441b-b66d-b4d0c6daaa57",
+    "name": "Produto 12",
+    "description": "Produto 12 descrição",
+    "amount": 170
+  }
+]
