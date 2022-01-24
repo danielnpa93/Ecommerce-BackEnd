@@ -25,19 +25,19 @@ namespace ECommerce.API.Controllers
             {
                 var users = await _orderService.GetAll(limit, offset);
                 return Ok(new {
-                    isValid = true, 
-                    data = users, 
-                    totalPages = users.TotalPages, 
+                    isValid = true,
+                    data = users,
+                    totalPages = users.TotalPages,
                     limit = users.Limit,
-                    currentPage = users.CurrentPage, 
-                    totalItems = users.TotalItems 
+                    currentPage = users.CurrentPage,
+                    totalItems = users.TotalItems
                 });
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
-                return StatusCode(500, new { isValid = false, error = ex.Message, message = "Unknow error ocurred" }) ;
+                return StatusCode(500, new { isValid = false, error = ex.Message, message = "Unknow error ocurred" });
             }
         }
-      
+
     }
 }

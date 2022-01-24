@@ -7,5 +7,6 @@ namespace ECommerce.API.Repository.Interfaces
     public interface IOrderRepository : IBaseRepository<Order>
     {
         public Task<PaginatedList<Order>> GetAll(int limit, int offset);
+
     }
 }

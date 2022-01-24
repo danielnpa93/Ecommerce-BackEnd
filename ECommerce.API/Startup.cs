@@ -44,6 +44,9 @@ namespace ECommerce.API
             services.AddScoped<IOrderServices, OrderServices>();
             services.AddScoped<IOrderRepository, OrderRepository>();
 
+            services.AddScoped<IDeliveryTeamServices, DeliveryTeamServices>();
+            services.AddScoped<IDeliveryTeamRepository, DeliveryTeamRepository>();
+
             services.AddScoped<IUserServices, UserServices>();
             services.AddScoped<IUserRepository, UserRepository>();
 
